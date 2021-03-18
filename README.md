@@ -1,31 +1,34 @@
-Unit 13 MVC Homework:E-Commerce Back End(Eat-da-burger)
-GitHub license GitHub license
-
-Description
-
-App working example
+# Unit 13 MVC Homework: E-Commerce Back End(Eat-da-burger)
 
 
-App Screen Shots
+![GitHub license](https://img.shields.io/badge/Made%20by-%40niyati7892-orange)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Table of contents
-Description
-App Working Example
-Installation
-Usage
-Licence
-Repository Link
-Installation
+## Description 
+
+
+### App working example
+![video]()
+
+
+
+### App Screen Shots
+![screnshot1]()
+![screnshot2]()
+
+
+
+## Table of contents
+
+- [Description](#Description)
+- [App Working Example](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Licence](#Licence)
+- [Repository Link](#Repository)
+
+
+## Installation
 Run:
 
-            npm i
-Usage
-
-The application will be invoked with the following command:
-
-         node app.js
-Licence
-GitHub license
-
-Repository
-Project Repo
+                npm i
