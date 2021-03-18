@@ -21,7 +21,7 @@
 
 ### App Screen Shots
 ![screnshot1]()
-![screnshot2]()
+
 
 
 
@@ -30,7 +30,6 @@
 - [Description](#Description)
 - [App Working Example](#Description)
 - [Installation](#Installation)
-- [Usage](#Usage)
 - [Licence](#Licence)
 - [Repository Link](#Repository)
 
