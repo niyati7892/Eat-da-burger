@@ -15,7 +15,7 @@
 
 
 ### App working example
-![video]()
+![video](https://github.com/niyati7892/Eat-da-burger/blob/main/public/img/screen%20recording.gif)
 
 
 
