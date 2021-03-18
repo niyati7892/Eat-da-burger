@@ -20,7 +20,7 @@
 
 
 ### App Screen Shots
-![screnshot1]()
+![screnshot1](https://github.com/niyati7892/Eat-da-burger/blob/main/public/img/screenshot.png)
 
 
 
