@@ -38,3 +38,12 @@
 Run:
 
                 npm i
+                
+ ## Licence
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Repository
+
+- [Project Repo]()
+
